@@ -1,0 +1,5 @@
+test/=test/
+@openzeppelin/contracts/=../../../node_modules/@openzeppelin/contracts/
+@ngquests/contracts/=../../../../node_modules/@ngquests/contracts/
+ds-test/=/Users/dan/Documents/dev/ng-questplay/lib/forge-std/lib/ds-test/src/
+forge-std/=/Users/dan/Documents/dev/ng-questplay/lib/forge-std/src/
